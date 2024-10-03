@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-collection: "cv"
+collection: "files"
 permallink: "/"
 ---
 
