@@ -4,7 +4,7 @@ title: "CV"
 collection: "cv"
 ---
 
-{% include base_path %}
+{% [include base_path](https://jushcooly.github.io/seojunhyeok.academicpages.github.io/) %}
 
 Education
 ======
