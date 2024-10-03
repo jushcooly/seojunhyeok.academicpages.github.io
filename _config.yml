@@ -12,7 +12,7 @@ title                    : "Seo JunHyeok/ Academic Website"
 title_separator          : "-"
 name                     : &name "Seo JunHyeok"
 description              : &description "personal description"
-url                      : url: https://jushcooly.github.io/seojunhyeok.academicpages.github.io
+url                      : "jushcooly.github.io/"
  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "seojunhyeok/academicpages.github.io"
