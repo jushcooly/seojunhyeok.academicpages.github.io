@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "kr_Seoul"
 title                    : "Seo JunHyeok/ Academic Website"
 title_separator          : "-"
 name                     : &name "Seo JunHyeok"
@@ -24,13 +24,13 @@ repository               : "seojunhyeok/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "SeoJunHyeok"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "2nd year AI major student at Yonsei University"
+  location         : "Soul, Korea"
+  employer         : "Yonsei University"
+  uri              : https://ai.yonsei.ac.kr
+  email            : "junhyeoks@yonsei.ac.kr" 
 
   # Repositories and software development
 
