@@ -3,7 +3,7 @@ permalink: /activities/
 title: "activities"
 author_profile: true
 
-  -
+  
 ---
 
 
