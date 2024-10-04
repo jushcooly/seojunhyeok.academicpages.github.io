@@ -1,8 +1,8 @@
 ---
-permalink: /
-title: "SeojunHyeokAcademicWebsite"
+permalink: /activities/
+title: "activities"
 author_profile: true
-redirect_from: 
+
   -
 ---
 
