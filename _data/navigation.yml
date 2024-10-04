@@ -6,7 +6,7 @@
 
 main:
   - title: "Activities"
-    url: /Activites/
+    url: /activites/
   - title: "Experience"
     url: /Experience/
 
