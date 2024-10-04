@@ -17,5 +17,4 @@ Interested in
 **machine learning**- Since patient data is smaller than typical data, I would also like to research efficient AI training methods. 
 
 
-![](/images/DALL·E2024-10-03_16.55.35_A_futuristic_scene_showcasing_computer_vision_technology.webp)
 
