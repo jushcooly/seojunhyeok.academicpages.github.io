@@ -2,7 +2,7 @@
 permalink: /activities/
 title: "activities"
 author_profile: true
-
+collections: activities.md
   
 ---
 
