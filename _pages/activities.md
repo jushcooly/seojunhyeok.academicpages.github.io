@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "SeojunHyeokAcademicWebsite"
 author_profile: true
