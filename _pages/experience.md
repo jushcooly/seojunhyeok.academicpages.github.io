@@ -14,6 +14,7 @@ YeongIl Highschool(in pohang)<br>
 • started to intersted in computer and AI
 <br><br>
 Yonsei University(Sophomore) <br>
+
 **• Coursework**<br>
 <br>
 Linear Algebra- how to analyze the space like vector and matrix.<br>
@@ -25,7 +26,7 @@ Computer Programming, oriented optimal programming- learning how to make code, a
 
 Additional Experience
 ==========
-therapy<br>
+**therapy<br>**
 • Since I was born, my health was not good, so I underwent major and minor surgeries and rehabilitation in parallel with my studies.<br>
 • After freshman year, I needed a year-long leave of absence to live independently.<br>
 <br>
