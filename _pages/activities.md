@@ -36,7 +36,7 @@ and the tradeoff between bias and variance, among other topics.
 <br>
 After taking a data structure class and joining a club called Morgorithm, I studied this book because I was curious about in-depth<br>  information about algorithms.<br>
 I was able to learn in detail about when to use algorithms in realistic situations and how to use which algorithms.
-<br>
+<br><br>
 the book-[book](https://book.algospot.com)
 <br><br>
 **Image Processing for Engineering and Science Specialization(Coursera)**
