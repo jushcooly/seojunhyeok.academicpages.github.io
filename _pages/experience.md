@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-<h2>education<h2>
+<h2>education</h2>
 
 <br>
 YeongIl Highschool(in pohang)<br>
@@ -15,7 +15,7 @@ YeongIl Highschool(in pohang)<br>
 <br><br>
 Yonsei University(Sophomore) <br>
 
-<h3>• Coursework<br><h3></h3>
+<h3>• Coursework<br></h3>
 <br>
 Linear Algebra- how to analyze the space like vector and matrix.<br>
 Data Structure- learning data structure and basic algorithm<br>
@@ -24,7 +24,7 @@ Computer Programming, oriented optimal programming- learning how to make code, a
 
 <br>
 
-<h2>Additional Experience<h2>
+<h2>Additional Experience</h2>
 
 <h3>therapy<br><h3>
 • Since I was born, my health was not good, so I underwent major and minor surgeries and rehabilitation in parallel with my studies.<br>
