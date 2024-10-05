@@ -23,8 +23,8 @@ the link-[link](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
 
 **CS229-Andrew Ng(2018-autumn)-on youtube**
 <br>
-<a href="https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU" target="_blank">
-  <i class="fab fa-youtube" aria-hidden="true"></i>
+</a> <href="https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU" target= 'blank'>
+<i class = "fab fa-youtube aria"- hidden= "true"></i>
 </a>  - the link of the lecture
 <br><br>
 After the Deep Learning From Scratch activity, I wanted to know how it could be used mathematically, so I decided to do this activity.<br>
