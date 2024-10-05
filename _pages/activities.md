@@ -4,7 +4,7 @@ title: "Activities"
 author_profile: true
 ---
 
-# Club Activity
+<h2>Club Activity</h2> 
 
 **Mogorithm** : Interested in PS, I learned about and analyzed algorithms by solving problems that appeared in competition(ICPC)s with other members
 <br><br>
@@ -12,7 +12,7 @@ the source - [baekjoonFile](https://github.com/jushcooly/baekjoonFile)
 <br>
 
 
-# Personal Activities
+<h2> Personal Activities</h2>
 <br>
 
 **Deep learning From Scratch 1,2**
