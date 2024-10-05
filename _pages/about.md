@@ -19,6 +19,6 @@ I am a student at Yonsei University who is interested in medical AI and computer
 
 <h2>Technologies</h2>
 
-**Languages**: Korean(native)
-**Computer Languages**: C++, python
+**Languages**: Korean(native)<br>
+**Computer Languages**: C++, python<br>
 **Technologies**: tenserflow, numpy, pandas, basic algorithm
