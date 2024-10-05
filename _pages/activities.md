@@ -17,7 +17,7 @@ the source - [baekjoonFile](https://github.com/jushcooly/baekjoonFile)
 
 **Deep learning From Scratch 1,2**
 <br>
-I was curious about how AI learns data and wanted to learn about the basics of deep learning.<br> So, by reading this book, I think I was able to learn the basics of NumPy, neural networks, error calculation, and basic CNN concepts with a focus on coding.<br><br><br>
+I was curious about how AI learns data and wanted to learn about the basics of deep learning.<br> So, by reading this book, I think I was able to learn the basics of NumPy, neural networks, error calculation, and basic CNN concepts with a focus on coding.<br><br>
 the link-[link](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
 
 
