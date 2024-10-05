@@ -28,6 +28,9 @@ therapy<br>
 **the things that i learned in leave of absence period**<br>
 - moving with electronic wheelchair naturally<br>
 - walk longer using the medical devices<br>
-- the other activities needed to live independently<br><br> **horseback riding**<br><br>
+- the other activities needed to live independently<br><br>
+
+
+**horseback riding**<br><br>
 • I originally started it for rehabilitation.<br>
 • Both obstacle jumping and horse racing are possible.<br>
