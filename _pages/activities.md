@@ -26,17 +26,11 @@ the link-[link](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
  <a href="https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU" target= '_blank'>
 <i class = "fab fa-youtube" aria- hidden= "true"></i>
 </a>  - the link of the lecture
-<br><br>
-After the Deep Learning From Scratch activity, I wanted to know how it could be used mathematically, so I decided to do this activity.<br>
-I needed to have a clear understanding of linear algebra, probability, and statistics to understand this class well, so it was quite difficult.<br>
-I was able to learn linear regression and Newton's method, the mathematical meaning of backpropagation, the mathematical <br>interpretation of neural networks, the mathematical interpretation of k-clustering,<br>
-and the tradeoff between bias and variance, among other topics.
+<br><br>After the Deep Learning From Scratch activity, I wanted to know how it could be used mathematically, so I decided to do this activity. <br>I needed to have a clear understanding of linear algebra, probability, and statistics to understand this class well, so it was quite difficult. <br>I was able to learn linear regression and newton's method, the mathematical meaning of backpropagation, mathematical interpretation of neural networks,<br> mathematical interpretation of k-clustering, tradeoff between bias and variance, etc.
 <br><br>
 **Algorithmic Problem Solving Strategies**
 <br>
-After taking a data structure class and joining a club called Morgorithm, I studied this book because I was curious about in-depth<br>  information about algorithms.<br>
-I was able to learn in detail about when to use algorithms in realistic situations and how to use which algorithms.
-<br><br>
+After taking a data structure class and joining a club called Morgorithm, I studied this book because I was curious about in-depth information about algorithms.<br> I was able to learn in detail about when to use algorithms in realistic situations and how to use which algorithms<br><br>
 the book-[book](https://book.algospot.com)
 <br><br>
 **Image Processing for Engineering and Science Specialization(Coursera)**
