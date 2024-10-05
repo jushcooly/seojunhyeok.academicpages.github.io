@@ -26,7 +26,7 @@ Computer Programming, oriented optimal programming- learning how to make code, a
 
 <h2>Additional Experience</h2>
 
-<h3>therapy<br><h3>
+<h3>therapy<br></h3>
 • Since I was born, my health was not good, so I underwent major and minor surgeries and rehabilitation in parallel with my studies.<br>
 • After freshman year, I needed a year-long leave of absence to live independently.<br>
   
@@ -38,6 +38,6 @@ Computer Programming, oriented optimal programming- learning how to make code, a
 - the other activities needed to live independently<br><br>
 
 
-<h3>horseback riding<h3>
+<h3>horseback riding</h3>
 • I originally started it for rehabilitation.<br>
 • Both obstacle jumping and horse racing are possible.<br>
