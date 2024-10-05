@@ -5,9 +5,11 @@ author_profile: true
 ---
 <h1> Experience</h1>
 
+
+
 education
 ==========
-<br><br>
+<br>
 YeongIl Highschool(in pohang)<br>
 • started to intersted in computer and AI
 <br><br>
