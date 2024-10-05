@@ -7,7 +7,7 @@ author_profile: true
 <h2>Club Activity</h2> 
 
 **Mogorithm** : Interested in PS, I learned about and analyzed algorithms by solving problems that appeared in competition(ICPC)s with other members
-<br><br>
+<br>
 the source - [baekjoonFile](https://github.com/jushcooly/baekjoonFile)
 <br>
 
@@ -42,7 +42,7 @@ the book-[book](https://book.algospot.com)
 **Image Processing for Engineering and Science Specialization(Coursera)**
 <br>
 I am interested in computer vision, but I don't know much about it, so I am taking a course that teaches how to use matlab and computer vision.<br>
-I am learning basic techniques such as image structure, image color separation, and image segmentation.
+I am learning basic techniques such as image structure, image color separation, and image segmentation.<br>
 link- [link](https://www.coursera.org/specializations/image-processing)
 
 
