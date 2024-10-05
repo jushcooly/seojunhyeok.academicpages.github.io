@@ -31,7 +31,7 @@ Computer Programming, oriented optimal programming- learning how to make code, a
 • After freshman year, I needed a year-long leave of absence to live independently.<br>
   
 
-
+<br>
 **the things that i learned in leave of absence period**<br>
 - moving with electronic wheelchair naturally<br>
 - walk longer using the medical devices<br>
